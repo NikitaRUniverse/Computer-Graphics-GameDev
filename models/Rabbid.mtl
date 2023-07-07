@@ -1,0 +1,67 @@
+newmtl NDS_Material.003
+Ns 356.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd NDS Texture.png
+
+newmtl NDS_Material.004
+Ns 356.862745
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Body.png
+
+newmtl leftWall
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.0 0.0 0.0 # Green
+  Kd 0.0 0.0 0.0
+  Ks 0 0 0
+  Ke 0 0 0
+
+
+newmtl rightWall
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 1.0 1.0 1.0 # Green
+  Kd 1.0 1.0 1.0
+  Ks 0 0 0
+  Ke 0 0 0
+
+newmtl mouth
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.0 0.0 0.0 # Green
+  Kd 0.0 0.0 0.0
+  Ks 0 0 0
+  Ke 0 0 0
+
+newmtl mouth2
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 1.0 1.0 1.0 # Green
+  Kd 1.0 1.0 1.0
+  Ks 0 0 0
+  Ke 0 0 0
+
+newmtl mouth3
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.0 0.0 0.0 # Green
+  Kd 0.0 0.0 0.0
+  Ks 0 0 0
+  Ke 0 0 0
